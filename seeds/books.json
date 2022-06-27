@@ -1,0 +1,41 @@
+[{
+    "name": "Los cuentos de mi tia panchita",
+    "year": 2009,
+    "idA": 3,
+    "id": 1
+},{
+    "name": "La cucarachita mandinga",
+    "year": 2020,
+    "idA": 3,
+    "id": 2
+},{
+    "name": "Harry Potter 1",
+    "year": 2000,
+    "idA": 2,
+    "id": 3
+}, {
+    "name": "Harry Potter 2",
+    "year": 2002,
+    "idA": 2,
+    "id": 4
+}, {
+    "name": "Harry Potter 3",
+    "year": 2004,
+    "idA": 2,
+    "id": 5
+},{
+    "name": "Lord of the rings 1",
+    "year": 1990,
+    "idA": 1,
+    "id": 6
+}, {
+    "name": "Lord of the rings 2",
+    "year": 1992,
+    "idA": 1,
+    "id": 7
+}, {
+    "name": "Lord of the rings 3",
+    "year": 1994,
+    "idA": 1,
+    "id": 8
+}]
