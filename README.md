@@ -1,2 +1,2 @@
-# FrontApp
-First frontend connection with Heroku
+# BackEndApp
+First connection with Heroku
